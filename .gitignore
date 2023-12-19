@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Spyder project settings
+.spyderproject
+.ropeproject
+
+# PyCharm project settings
+.idea/
+
+# Jupyter Notebook config
+.jupyter/
+
+# macOS directory attributes
+.DS_Store
+
+# Node modules folder for React
+node_modules/
+
+# React build folder
+build/
+
+# Log files
+*.log
+
+# Others
+.vscode/
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
