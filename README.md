@@ -41,7 +41,7 @@ Contributing
 Contributions to WealthWarden are welcome! Please read our contributing guidelines and code of conduct for more information.
 
 License
-WealthWarden is released under [license name], which provides details on usage and redistribution.
+WealthWarden is released under  GNU GPLv3, which provides details on usage and redistribution.
 
 Contact
-For support, feedback, or inquiries, please contact us at [email@example.com].
+For support, feedback, or inquiries, please contact us at dwmasters0341@gmail.com.
